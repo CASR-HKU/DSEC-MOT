@@ -50,7 +50,7 @@ The format of the annotation is as follows:
 
 | Class ID |    Label    |
 |:--------:|:-----------:|
-| 0        | Car         |
+| 0        | Cars        |
 | 1        | Pedestrians |
 | 2        | Bicycles    |
 | 3        | Motorcycles |
